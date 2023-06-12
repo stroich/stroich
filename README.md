@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maria</h1>
 
-___
-
 ### About Me :
 - I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Georgia.
 - How to contact me: Just sent email to 📧 [stroichmwork@gmail.com](mailto:stroichmwork@gmail.com)
