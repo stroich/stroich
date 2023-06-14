@@ -3,7 +3,7 @@
 ### About Me :
 - I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Georgia.
 - How to contact me: Just sent email to 📧 [stroichmwork@gmail.com](mailto:stroichmwork@gmail.com)
-- Know about my experiences 📄 [CV](https://stroich.github.io/rsschool-cv/)
+- Know about my experiences 📄 [CV](https://stroich.github.io/cv/index.html)
 ___
 
 ### 🛠 Languages and Tools :
